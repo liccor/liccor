@@ -1,4 +1,7 @@
-## Hi there 👋
+## oi! me chamo salim 
+## estou cursando engenharia da computação na turma EC1MA
+## meus interesses na área se originam muito dos jogos, mas também de uma curiosidade por tecnologias e hardware
+## meu objetivo para esse semestre é me acostumar com a nova rotina de estudos e quem sabe descobrir um novo hobbie envolvendo computação
 
 <!--
 **liccor/liccor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
