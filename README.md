@@ -1,6 +1,6 @@
 # 🦖 Salim Fraiha
 
-**'Estudante (Engenharia da computação/2° Semestre)'**
+**Estudante (Engenharia da computação/2° Semestre)**
 
 Sou um aluno em busca de ampliar meu conhecimento por meio de projetos e oportunidades que vierem pelo caminho, sempre aberto para novas experiencias.
 
