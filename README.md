@@ -7,7 +7,7 @@ Sou um aluno em busca de ampliar meu conhecimento por meio de projetos e oportun
 # Redes sociais
     incompleto
 
----
+---###
 
 # Linguagens/Ferramentas 
 
