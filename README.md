@@ -1,5 +1,5 @@
-# 🦖 Salim Fraiha/Liccor
+# 🦖 Salim Fraiha
 
-## Oi! me chamo Salim. 
+**'Estudante (Engenharia da computação/2° Semestre)'**
 
-
+### teste
