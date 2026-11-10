@@ -12,7 +12,7 @@ Sou um aluno em busca de ampliar meu conhecimento por meio de **projetos** e **o
 
     incompleto 
 
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
 
 ## Linguagens/Ferramentas 
 
