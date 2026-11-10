@@ -21,7 +21,7 @@ Sou um aluno em busca de ampliar meu conhecimento por meio de **projetos** e **o
   
 <img alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
-<img alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
+<img alt="GitHub" width="30px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="paddingright:10px;" />
 <img alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" style="padding-right:10px;" />
 <img alt="C" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg" style="padding-right:10px;" />
 <img alt="Arduino" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original-wordmark.svg" style="padding-right:10px;" />
@@ -36,9 +36,7 @@ Sou um aluno em busca de ampliar meu conhecimento por meio de **projetos** e **o
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
+  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/liccor/liccor/output/github-contribution-grid-snake.svg" />
 </picture>
-
-![snake gif](https://github.com/liccor/liccor/blob/output/github-snake-dark.svg)
 
 </div>
