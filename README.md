@@ -39,7 +39,7 @@ Sou um aluno em busca de ampliar meu conhecimento por meio de **projetos** e **o
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/liccor/liccor/output/github-contribution-grid-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/liccor/liccor/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/liccor/liccor/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake" src="" />
 </picture>
 
 </div>
